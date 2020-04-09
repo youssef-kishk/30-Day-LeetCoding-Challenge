@@ -1,3 +1,4 @@
+class Solution {
 public int singleNumber(int[] nums) {
 	        HashMap <Integer,Integer> map=new HashMap();
 	        int op=0;
@@ -12,3 +13,4 @@ public int singleNumber(int[] nums) {
 	        }
 	        return op;
 	    }
+}
