@@ -1,4 +1,6 @@
- public int maxSubArray(int[] nums) {
+
+class Solution {
+    public int maxSubArray(int[] nums) {
     	if(nums.length==0)
     		return 0;
     	int maxSum[] = new int[nums.length];
@@ -12,3 +14,4 @@
     	}
     	return op;
     }
+}
