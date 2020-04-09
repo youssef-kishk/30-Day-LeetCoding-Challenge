@@ -4,19 +4,19 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 ## [Week 1](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/)
 
-_ [**Single Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/)
+[**_ Single Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/)
 
-_ [**Happy Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/)
+[**Happy Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/)
 
-_ [**Maximum Subarray**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3285/)
+[**Maximum Subarray**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3285/)
 
-_ [**Move Zeroes**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3286/)
+[**Move Zeroes**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3286/)
 
-_ [**Best Time to Buy and Sell Stock II**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3287/)
+[**Best Time to Buy and Sell Stock II**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3287/)
 
-_ [**Group Anagrams**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/)
+[**Group Anagrams**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3288/)
 
-_ [**Counting Elements**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)
+[**Counting Elements**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3289/)
 
 
 
