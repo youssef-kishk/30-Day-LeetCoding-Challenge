@@ -1,4 +1,5 @@
- public boolean isHappy(int n) {
+class Solution {
+     public boolean isHappy(int n) {
 	if (n == 1)
 		return true;
 
@@ -12,3 +13,4 @@
 	}
 	return isHappy(sum);
     }
+}
