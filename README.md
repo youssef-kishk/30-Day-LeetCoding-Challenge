@@ -5,7 +5,7 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 ## [Week 1](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/)
 
 [**Single Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/)
-  -solution
+- Solution
 
 [**Happy Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/)
 
