@@ -30,8 +30,8 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 ## [Week 2](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/)
 
 [**1. Middle of the Linked List**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/)
-- [Solution]()
+- [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week2/Middle%20of%20the%20Linked%20List.java)
 
 [**2. Backspace String Compare**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3291/)
-- [Solution]()
+- [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week2/Backspace%20String%20Compare.java)
 
