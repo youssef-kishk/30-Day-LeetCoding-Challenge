@@ -29,7 +29,9 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 ## [Week 2](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/)
 
-[**Middle of the Linked List**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/)
+[**1. Middle of the Linked List**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3290/)
+- [Solution]()
 
-[**Backspace String Compare**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3291/)
+[**2. Backspace String Compare**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3291/)
+- [Solution]()
 
