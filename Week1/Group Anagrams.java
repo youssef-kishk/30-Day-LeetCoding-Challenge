@@ -1,4 +1,5 @@
-public List<List<String>> groupAnagrams(String[] strs) {
+class Solution {
+      public List<List<String>> groupAnagrams(String[] strs) {
     	List<List<String>> op = new ArrayList();
     	HashMap<String,ArrayList<String>> map = new HashMap();
     	ArrayList<String> sorted = new ArrayList();
@@ -27,3 +28,4 @@ public List<List<String>> groupAnagrams(String[] strs) {
         Arrays.sort(tempArray); 
         return new String(tempArray); 
     } 
+}
