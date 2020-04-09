@@ -4,7 +4,7 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 ## [Week 1](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/)
 
-[**Single Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/)
+[**1. Single Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3283/)
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week1/Single%20Number.java)
 
 [**Happy Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/528/week-1/3284/)
