@@ -1,10 +1,10 @@
 class MinStack {
 
-  		ArrayList<Integer> list;
+  	ArrayList<Integer> list;
 	int top;
 	int min;
 	public MinStack() {
-		list = new ArrayList();
+	list = new ArrayList();
         top=-1;
         min = Integer.MAX_VALUE;
     }
