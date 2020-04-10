@@ -36,5 +36,5 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week2/Backspace%20String%20Compare.java)
 
 [**3. Min Stack**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/)
-- [Solution]()
+- [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week2/Min%20Stack.java)
 
