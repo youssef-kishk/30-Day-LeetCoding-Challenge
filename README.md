@@ -38,3 +38,5 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 [**3. Min Stack**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/529/week-2/3292/)
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week2/Min%20Stack.java)
 
+[**4. Diameter of Binary Tree**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3293/)
+- [Solution]()
