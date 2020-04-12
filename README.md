@@ -40,3 +40,6 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 [**4. Diameter of Binary Tree**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3293/)
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week2/Diameter%20of%20Binary%20Tree.java)
+
+[**5. Last Stone Weight**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/529/week-2/3297/)
+- [Solution]()
