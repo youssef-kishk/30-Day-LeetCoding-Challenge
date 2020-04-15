@@ -54,3 +54,6 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 
 ## [Week 3](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/)
+
+[**1. Product of Array Except Self**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/)
+- [Solution]()
