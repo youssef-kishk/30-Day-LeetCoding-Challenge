@@ -60,3 +60,6 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 [**2. Valid Parenthesis String**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3301/)
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week3/Valid%20Parenthesis%20String.java)
+
+[**3. Number of Islands**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3302/)
+- [Solution]()
