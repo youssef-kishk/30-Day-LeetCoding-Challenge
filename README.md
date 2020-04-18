@@ -65,4 +65,4 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week3/Number%20of%20Islands.java)
 
 [**4. Minimum Path Sum**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/)
-- [Solution]()
+- [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week3/Minimum%20Path%20Sum.java)
