@@ -67,4 +67,4 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week3/Minimum%20Path%20Sum.java)
 
 [**5. Search in Rotated Sorted Array**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3304/)
-- [Solution]()
+- [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week3/Search%20in%20Rotated%20Sorted%20Array.java)
