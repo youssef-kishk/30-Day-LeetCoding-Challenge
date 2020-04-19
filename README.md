@@ -52,7 +52,6 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 
 
-
 ## [Week 3](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/)
 
 [**1. Product of Array Except Self**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/530/week-3/3300/)
@@ -66,3 +65,6 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 [**4. Minimum Path Sum**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3303/)
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week3/Minimum%20Path%20Sum.java)
+
+[**5. Search in Rotated Sorted Array**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3304/)
+- [Solution]()
