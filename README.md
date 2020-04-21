@@ -73,4 +73,4 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week3/Construct%20Binary%20Search%20Tree%20from%20Preorder%20Traversal.java)
 
 [**7. Leftmost Column with at Least a One**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/)
-- [Solution]()
+- [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week3/Leftmost%20Column%20with%20at%20Least%20a%20One.java)
