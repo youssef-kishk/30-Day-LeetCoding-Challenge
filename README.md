@@ -74,3 +74,10 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 [**7. Leftmost Column with at Least a One**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/530/week-3/3306/)
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week3/Leftmost%20Column%20with%20at%20Least%20a%20One.java)
+
+
+
+## [Week 4](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/)
+
+[**1. Subarray Sum Equals K**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/)
+- [Solution]()
