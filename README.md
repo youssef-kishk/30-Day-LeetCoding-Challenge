@@ -81,3 +81,6 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 [**1. Subarray Sum Equals K**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3307/)
 - [Solution](https://github.com/youssef-kishk/30-Day-LeetCoding-Challenge/blob/master/Week4/Subarray%20Sum%20Equals%20K.java)
+
+[**2. Bitwise AND of Numbers Range**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/)
+- [Solution]()
