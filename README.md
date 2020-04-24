@@ -84,3 +84,6 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 [**2. Bitwise AND of Numbers Range**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3308/)
 - [Solution](https://github.com/youssef-kishk/30-Days-LeetCoding-Challenge/blob/master/Week4/Bitwise%20AND%20of%20Numbers%20Range.java)
+
+[**3. LRU Cache**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3309/)
+- [Solution]()
