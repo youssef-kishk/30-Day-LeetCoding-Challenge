@@ -89,4 +89,4 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 - [Solution](https://github.com/youssef-kishk/30-Days-LeetCoding-Challenge/blob/master/Week4/LRU%20Cache.java)
 
 [**4. Jump Game**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3310/)
-- [Solution]()
+- [Solution](https://github.com/youssef-kishk/30-Days-LeetCoding-Challenge/blob/master/Week4/Jump%20Game.java)
