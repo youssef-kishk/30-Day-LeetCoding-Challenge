@@ -90,3 +90,6 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 [**4. Jump Game**](https://leetcode.com/explore/featured/card/30-day-leetcoding-challenge/531/week-4/3310/)
 - [Solution](https://github.com/youssef-kishk/30-Days-LeetCoding-Challenge/blob/master/Week4/Jump%20Game.java)
+
+[**5. Longest Common Subsequence**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3311/)
+- [Solution]()
