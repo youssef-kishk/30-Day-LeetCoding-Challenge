@@ -94,3 +94,6 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 [**5. Longest Common Subsequence**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3311/)
 - [Solution](https://github.com/youssef-kishk/30-Days-LeetCoding-Challenge/blob/master/Week4/Longest%20Common%20Subsequence.java)
+
+[**6. Maximal Square**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3312/)
+- [Solution]()
