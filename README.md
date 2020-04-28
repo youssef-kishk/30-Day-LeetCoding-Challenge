@@ -99,4 +99,4 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 - [Solution](https://github.com/youssef-kishk/30-Days-LeetCoding-Challenge/blob/master/Week4/Maximal%20Square.java)
 
 [**7. First Unique Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)
-- [Solution]()
+- [Solution](https://github.com/youssef-kishk/30-Days-LeetCoding-Challenge/blob/master/Week4/First%20Unique%20Number.java)
