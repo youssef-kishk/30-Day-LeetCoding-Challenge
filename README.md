@@ -100,3 +100,10 @@ My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explo
 
 [**7. First Unique Number**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/531/week-4/3313/)
 - [Solution](https://github.com/youssef-kishk/30-Days-LeetCoding-Challenge/blob/master/Week4/First%20Unique%20Number.java)
+
+
+
+## [Week 5](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/)
+
+[**1. Binary Tree Maximum Path Sum**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3314/)
+- [Solution]()
