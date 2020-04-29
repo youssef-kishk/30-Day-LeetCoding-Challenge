@@ -1,5 +1,5 @@
 # 30-Days-LeetCoding-Challenge
-My solutions for [Leet-Code 30 days coding challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
+My solutions for April 2020 [Leet-Code 30 days coding challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
 
 
 
