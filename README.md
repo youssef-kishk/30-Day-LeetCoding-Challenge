@@ -107,3 +107,6 @@ My solutions for April 2020 [Leet-Code 30 days coding challenge](https://leetcod
 
 [**1. Binary Tree Maximum Path Sum**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3314/)
 - [Solution](https://github.com/youssef-kishk/30-Days-LeetCoding-Challenge/blob/master/Week5/Binary%20Tree%20Maximum%20Path%20Sum.java)
+
+[**2. Check If a String Is a Valid Sequence from Root to Leaves Path in a Binary Tree**](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/532/week-5/3315/)
+- [Solution]()
